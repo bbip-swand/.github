@@ -97,7 +97,7 @@
 
 ### Design
 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### FrontEnd
 
@@ -107,7 +107,7 @@
 
 **Language & Framework**
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 **Documentation**
 
@@ -115,19 +115,19 @@
 
 **Database **
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
 
 **Cloud & Hosting **
 
-![Amazon Ec2](https://img.shields.io/badge/Amazon ec2-#FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)![Amazon S3](https://img.shields.io/badge/Amazon s3-#569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)![Amazon RDS](https://img.shields.io/badge/Amazon rds-#527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white)![Amazon Elasticache](https://img.shields.io/badge/Amazon ElastiCache-#C925D1.svg?style=for-the-badge&logo=amazonelasticache&logoColor=white)![Amazon Route53](https://img.shields.io/badge/Amazon Route53-#8C4FFF.svg?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![Amazon Ec2](https://img.shields.io/badge/Amazon ec2-#FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon s3-#569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon rds-#527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white) ![Amazon Elasticache](https://img.shields.io/badge/Amazon ElastiCache-#C925D1.svg?style=for-the-badge&logo=amazonelasticache&logoColor=white) ![Amazon Route53](https://img.shields.io/badge/Amazon Route53-#8C4FFF.svg?style=for-the-badge&logo=amazonroute53&logoColor=white)  
 
-![Amazon CloudFront](https://img.shields.io/badge/Amazon CloudFront-#8C4FFF.svg?style=for-the-badge&logo=amazon&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Amazon CloudFront](https://img.shields.io/badge/Amazon CloudFront-#8C4FFF.svg?style=for-the-badge&logo=amazon&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 
 
 
 ### Co-Work
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 
