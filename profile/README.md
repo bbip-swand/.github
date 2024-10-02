@@ -1,12 +1,137 @@
-## Hi there 👋
+# BBIP 🥊
 
-<!--
+![Mask group](https://github.com/user-attachments/assets/72412451-447a-442b-8313-2a4c9192bc1d)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 1. 어플 소개
+
+> **함께 협력하며 성장하는 우리의 스터디, 새로운 형태의 스터디그룹 보조 서비스**
+>
+> BBIP은 효율적인 스터디 관리가 필요한 대학생과 취준생을 타깃으로 기존과는 다르게 새로운 형태의 동기부여 제공합니다.
+>
+> 노션, 슬랙에 비해 가볍지만 확실하게, 시각적/구조적으로 편리함을 추구합니다.
+>
+> 출석 인증, 질문/공지 게시판, 자료 아카이브, 스터디 장소 공유 등의 스터디 관리에서 반드시 필요한 기능을 제공합니다.
+
+
+
+## 2. Members
+
+| **분야** | **이름** | **포지션**                                                   |
+| -------- | -------- | ------------------------------------------------------------ |
+| 디자인   | 채지영     | 🎨 **디자인 리드**, 기획, 화면 설계, 디자인 시스템 구축 및 운영, 그래픽 디자인, UX/UI 디자인 |
+| 디자인   | 이규진   | 🎨 기획, 화면 설계, UX/UI 디자인, 인터렉션 디자인        |
+| FE       | 이건우   | 💻 **프론트엔드 리드**, 기획, 화면 UI 구현, 서버 연동               |
+| FE       | 조예린   | 💻 **PM**, 기획, 화면 UI 구현, 서버 연동                                    |
+| BE       | 고현준   | 💻 **백엔드 리드**, 기획, DB 구축, API 구현, 서버 배포    |
+| BE       | 강희주   | 💻 기획, ERD 설계, DB 구축, API 구현                         |
+
+
+
+
+## 3. 기획
+
+### | Trend Research
+
+![Slide 16_9 - 12](https://github.com/user-attachments/assets/5ede502b-1840-46f0-b837-2178012113d0)
+
+
+
+### | User Research
+
+![Slide 16_9 - 14](https://github.com/user-attachments/assets/2407a0a0-a5d8-47b0-936e-3749d408feec)
+
+![Slide 16_9 - 13](https://github.com/user-attachments/assets/e80cca1b-3648-458e-b72d-02c6d2b07b3a)
+
+
+
+### | Needs & Insights
+
+> 효율적인 스터디 관리가 필요한 대학생과 취준생에게 꾸준한 스터디 동기부여와 관리를 시각적이고 편리하게 해주는 스터디그룹 관리 보조 서비스
+
+![Slide 16_9 - 19](https://github.com/user-attachments/assets/a55f503f-8d61-4a16-b64e-9beabcb02544)
+
+
+
+### | Main Function
+
+![Slide 16_9 - 23](https://github.com/user-attachments/assets/fa4e9e70-7ffd-45f4-ac0f-2830abc6fe93)
+
+
+
+### | Brand Identity
+
+![Slide 16_9 - 27](https://github.com/user-attachments/assets/0dda570a-99e0-4563-80f2-c5881ed20f7a)
+
+![Slide 16_9 - 36](https://github.com/user-attachments/assets/ccf8341b-2524-4d4e-903a-9d7a3d8d9413)
+
+## 4. 주요 기능
+
+- 로그인/회원가입 (애플 소셜 로그인)
+- 스터디 생성 / 참여
+- 출결 인증 (출결 생성)
+- 스터디 장소 공유
+- 스터디 자료 아카이브
+- 끝난 스터디 아카이브
+- 공지 / Q&A 게시판
+- 공유 캘린더
+
+![삡 리플렛 앞면](https://github.com/user-attachments/assets/d5f975a1-2345-4839-a414-86110d044ce0)
+
+
+
+## 5. 시스템 아키텍처
+
+<img src="https://github.com/user-attachments/assets/da39f619-ec6c-476a-8349-fc0af9bbc53f" width="1240px" height="1261px" title="architecture" alt="Frame 427319146"></img>
+
+
+
+## 6. ERD 설계도
+
+<img width="1581" alt="KakaoTalk_Photo_2024-10-03-01-49-11" src="https://github.com/user-attachments/assets/dbc481bc-1a2e-4bc1-bc9e-8cb49558d73a">
+
+
+
+## 7. Technology
+
+### Design
+
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+### FrontEnd
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+### BackEnd
+
+**Language & Framework**
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**Documentation**
+
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+**Database **
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+
+**Cloud & Hosting **
+
+![Amazon Ec2](https://img.shields.io/badge/Amazon ec2-#FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)![Amazon S3](https://img.shields.io/badge/Amazon s3-#569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)![Amazon RDS](https://img.shields.io/badge/Amazon rds-#527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white)![Amazon Elasticache](https://img.shields.io/badge/Amazon ElastiCache-#C925D1.svg?style=for-the-badge&logo=amazonelasticache&logoColor=white)![Amazon Route53](https://img.shields.io/badge/Amazon Route53-#8C4FFF.svg?style=for-the-badge&logo=amazonroute53&logoColor=white)
+
+![Amazon CloudFront](https://img.shields.io/badge/Amazon CloudFront-#8C4FFF.svg?style=for-the-badge&logo=amazon&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+
+
+### Co-Work
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+
+
+
+
+
+
