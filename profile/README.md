@@ -1,6 +1,6 @@
 # BBIP 🥊
 
-![Mask group](https://github.com/user-attachments/assets/72412451-447a-442b-8313-2a4c9192bc1d)
+![bbip-thumbnail](https://github.com/user-attachments/assets/6c70e05b-93d5-43ce-8ede-848dd3a6316d)
 
 
 
@@ -97,7 +97,7 @@
 
 ### Design
 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 &nbsp;
 
@@ -121,11 +121,15 @@
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-**Database**
+**Database** 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+&nbsp;
 
-**Cloud & Hosting **
+
+
+
+**Cloud & Hosting ** 
 
 ![AWSEC2](https://img.shields.io/badge/AWS%20Ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white) ![AmazonS3](https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![AmazonRDS](https://img.shields.io/badge/Amazon%20RDS-%23527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white) ![AmazonElasticache](https://img.shields.io/badge/Amazon%20ElastiCache-%23C925D1.svg?style=for-the-badge&logo=amazonelasticache&logoColor=white) ![AmazonRoute53](https://img.shields.io/badge/AmazonRoute53-%238C4FFF.svg?style=for-the-badge&logo=amazon%20route53&logoColor=white)  
 
