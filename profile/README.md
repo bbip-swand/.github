@@ -109,7 +109,7 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-**Documentation**
+**Documentation** 
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
@@ -121,8 +121,7 @@
 
 ![AWSEC2](https://img.shields.io/badge/AWS%20Ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white) ![AmazonS3](https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![AmazonRDS](https://img.shields.io/badge/Amazon%20RDS-%23527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white) ![AmazonElasticache](https://img.shields.io/badge/Amazon%20ElastiCache-%23C925D1.svg?style=for-the-badge&logo=amazonelasticache&logoColor=white) ![AmazonRoute53](https://img.shields.io/badge/AmazonRoute53-%238C4FFF.svg?style=for-the-badge&logo=amazon%20route53&logoColor=white)  
 
-![Amazon CloudFront](https://img.shields.io/badge/Amazon%20CloudFront-%238C4FFF.svg?style=for-the-badge&logo=amazon&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Amazon CloudFront](https://img.shields.io/badge/Amazon%20CloudFront-%238C4FFF.svg?style=for-the-badge&logo=amazon&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 
 
