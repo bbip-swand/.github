@@ -4,7 +4,7 @@
 
 
 
-## 1. 어플 소개
+# 1. 어플 소개
 
 > **함께 협력하며 성장하는 우리의 스터디, 새로운 형태의 스터디그룹 보조 서비스**
 >
@@ -16,7 +16,7 @@
 
 
 
-## 2. Members
+# 2. Members
 
 | **분야** | **이름** | **포지션**                                                   |
 | -------- | -------- | ------------------------------------------------------------ |
@@ -30,7 +30,7 @@
 
 
 
-## 3. 기획
+# 3. 기획
 
 ### | Trend Research
 
@@ -66,7 +66,7 @@
 
 ![Slide 16_9 - 36](https://github.com/user-attachments/assets/ccf8341b-2524-4d4e-903a-9d7a3d8d9413)
 
-## 4. 주요 기능
+# 4. 주요 기능
 
 - 로그인/회원가입 (애플 소셜 로그인)
 - 스터디 생성 / 참여
@@ -81,27 +81,35 @@
 
 
 
-## 5. 시스템 아키텍처
+# 5. 시스템 아키텍처
 
 <img src="https://github.com/user-attachments/assets/da39f619-ec6c-476a-8349-fc0af9bbc53f" width="1240px" height="1261px" title="architecture" alt="Frame 427319146"></img>
 
 
 
-## 6. ERD 설계도
+# 6. ERD 설계도
 
 <img width="1581" alt="KakaoTalk_Photo_2024-10-03-01-49-11" src="https://github.com/user-attachments/assets/dbc481bc-1a2e-4bc1-bc9e-8cb49558d73a">
 
 
 
-## 7. Technology
+# 7. Technology
 
 ### Design
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+&nbsp;
+
+
+
 ### FrontEnd
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+&nbsp;
+
+
 
 ### BackEnd
 
@@ -113,7 +121,7 @@
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-**Database **
+**Database**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
 
@@ -121,7 +129,9 @@
 
 ![AWSEC2](https://img.shields.io/badge/AWS%20Ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white) ![AmazonS3](https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![AmazonRDS](https://img.shields.io/badge/Amazon%20RDS-%23527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white) ![AmazonElasticache](https://img.shields.io/badge/Amazon%20ElastiCache-%23C925D1.svg?style=for-the-badge&logo=amazonelasticache&logoColor=white) ![AmazonRoute53](https://img.shields.io/badge/AmazonRoute53-%238C4FFF.svg?style=for-the-badge&logo=amazon%20route53&logoColor=white)  
 
-![Amazon CloudFront](https://img.shields.io/badge/Amazon%20CloudFront-%238C4FFF.svg?style=for-the-badge&logo=amazon&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Amazon CloudFront](https://img.shields.io/badge/Amazon%20CloudFront-%238C4FFF.svg?style=for-the-badge&logo=amazon&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)&nbsp;
+
+&nbsp;
 
 
 
