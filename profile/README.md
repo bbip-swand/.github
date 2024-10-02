@@ -119,7 +119,7 @@
 
 **Cloud & Hosting **
 
-![Amazon Ec2](https://img.shields.io/badge/Amazon ec2-#FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon s3-#569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon rds-#527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white) ![Amazon Elasticache](https://img.shields.io/badge/Amazon ElastiCache-#C925D1.svg?style=for-the-badge&logo=amazonelasticache&logoColor=white) ![Amazon Route53](https://img.shields.io/badge/Amazon Route53-#8C4FFF.svg?style=for-the-badge&logo=amazonroute53&logoColor=white)  
+![AWSEC2](https://img.shields.io/badge/AWS Ec2-#FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white) ![AmazonS3](https://img.shields.io/badge/AmazonS3-#569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![AmazonRDS](https://img.shields.io/badge/AmazonRDS-#527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white) ![AmazonElasticache](https://img.shields.io/badge/AmazonElastiCache-#C925D1.svg?style=for-the-badge&logo=amazonelasticache&logoColor=white) ![AmazonRoute53](https://img.shields.io/badge/AmazonRoute53-#8C4FFF.svg?style=for-the-badge&logo=amazonroute53&logoColor=white)  
 
 ![Amazon CloudFront](https://img.shields.io/badge/Amazon CloudFront-#8C4FFF.svg?style=for-the-badge&logo=amazon&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 
