@@ -1,2 +1,0 @@
-# .github
-BBIP ReadMe
