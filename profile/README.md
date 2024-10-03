@@ -83,7 +83,9 @@
 
 # 5. 시스템 아키텍처
 
-<img src="https://github.com/user-attachments/assets/da39f619-ec6c-476a-8349-fc0af9bbc53f" width="1240px" height="1261px" title="architecture" alt="Frame 427319146"></img>
+<img src="https://github.com/user-attachments/assets/ed66414f-be2a-4267-a48a-4ee4641b76bf" width="1240px" height="1261px" title="architecture" alt="Frame 427319146"></img>
+
+
 
 
 
