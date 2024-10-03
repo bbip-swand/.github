@@ -89,7 +89,9 @@
 
 # 6. ERD 설계도
 
-<img width="1581" alt="KakaoTalk_Photo_2024-10-03-01-49-11" src="https://github.com/user-attachments/assets/dbc481bc-1a2e-4bc1-bc9e-8cb49558d73a">
+<img width="1605" alt="SCR-20241003-pddd" src="https://github.com/user-attachments/assets/4ad5ac89-dddd-41d5-a5db-c3ec68b2c6df">
+
+
 
 
 
@@ -141,5 +143,4 @@
 ### Co-Work
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
 
