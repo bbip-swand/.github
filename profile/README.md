@@ -1,7 +1,6 @@
 # BBIP 🥊
 
-![bbip-thumbnail](https://github.com/user-attachments/assets/6c70e05b-93d5-43ce-8ede-848dd3a6316d)
-
+![thumbnail](https://github.com/user-attachments/assets/7f94e3ed-2141-4118-a4ef-ad44577d6ffa)
 
 
 # 1. 어플 소개
